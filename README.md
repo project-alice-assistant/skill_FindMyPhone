@@ -1,5 +1,7 @@
 # FindMyPhone
 
+[![Continous Integration](https://gitlab.com/project-alice-assistant/skills/skill_FindMyPhone/badges/master/pipeline.svg)](https://gitlab.com/project-alice-assistant/skills/skill_FindMyPhone/pipelines/latest)
+
 ### Download
 
 ##### > WGET method
