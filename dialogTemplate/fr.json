@@ -33,7 +33,7 @@
 					"name": "Who",
 					"description": null,
 					"required": false,
-					"type": "Name",
+					"type": "Alice/Name",
 					"missingQuestion": ""
 				}
 			]
