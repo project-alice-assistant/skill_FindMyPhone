@@ -2,6 +2,7 @@
 	"name": "FindMyPhone",
 	"version": "1.0.9",
 	"icon": "fab fa-battle-net",
+	"category": "undefined",
 	"author": "Psychokiller1888",
 	"maintainers": ["maxbachmann"],
 	"desc": "Using ifttt one can ask Alice to find his phone. sets the ring tone at max volume and initiates a call on it.",
