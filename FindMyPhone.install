@@ -1,10 +1,10 @@
 {
 	"name": "FindMyPhone",
-	"version": "1.0.9",
-	"icon": "fab fa-battle-net",
+	"version": "1.0.10",
+	"icon": "fab fa-searchengin",
 	"category": "assistance",
 	"author": "Psychokiller1888",
-	"maintainers": ["maxbachmann"],
+	"maintainers": [],
 	"desc": "Using ifttt one can ask Alice to find his phone. Sets the ring tone at max volume and initiates a call on it.",
 	"aliceMinVersion": "1.0.0-a4",
 	"systemRequirements": [],
@@ -16,10 +16,7 @@
 			"de"
 		],
 		"skill": [
-			{
-				"name": "Ifttt",
-				"url": "http://skills.projectalice.ch/ifttt"
-			}
+			"Ifttt"
 		],
 		"online": true
 	}
