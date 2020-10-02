@@ -1,12 +1,9 @@
 {
 	"skill": "FindMyPhone",
-	"icon": "direction",
-	"description": "Utilise le service IFTTT pour appeller le téléphone souhaiter",
 	"slotTypes": [],
 	"intents": [
 		{
 			"name": "FindPhone",
-			"description": "Demande a trouver un téléphone",
 			"enabledByDefault": true,
 			"utterances": [
 				"fais sonner le téléphone à {Natalija:=>Who} s'il te plait",

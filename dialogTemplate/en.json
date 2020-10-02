@@ -1,12 +1,9 @@
 {
 	"skill": "FindMyPhone",
-	"icon": "direction",
-	"description": "Using ifttt one can ask alice to find his phone. sets the ring tone at max volume and initiates a call on it.",
 	"slotTypes": [],
 	"intents": [
 		{
 			"name": "FindPhone",
-			"description": "asks to find the phone",
 			"enabledByDefault": true,
 			"utterances": [
 				"can you ring {Natalija:=>Who}'s phone please",
