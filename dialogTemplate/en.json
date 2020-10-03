@@ -32,7 +32,6 @@
 			"slots": [
 				{
 					"name": "Who",
-					"description": null,
 					"required": false,
 					"type": "Alice/Name",
 					"missingQuestion": ""
