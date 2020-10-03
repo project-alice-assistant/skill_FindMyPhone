@@ -1,12 +1,12 @@
 {
     "name": "FindMyPhone",
-    "version": "1.0.11",
+    "version": "1.0.12",
     "icon": "fab fa-searchengin",
     "category": "assistance",
     "author": "Psychokiller1888",
     "maintainers": [],
     "desc": "Using ifttt one can ask Alice to find his phone. Sets the ring tone at max volume and initiates a call on it.",
-    "aliceMinVersion": "1.0.0-a4",
+    "aliceMinVersion": "1.0.0-b3",
     "systemRequirements": [],
     "pipRequirements": [],
     "conditions": {
