@@ -16,7 +16,7 @@ class FindMyPhone(AliceSkill):
 	"""
 
 	@IntentHandler('FindPhone')
-	@IntentHandler('AnswerName', isProtected=True, requiredState='phoneOwner')
+	@IntentHandler('AnswerName', requiredState='phoneOwner')
 	@Online
 	def findPhoneIntent(self, session: DialogSession):
 		sessionId = session.sessionId
